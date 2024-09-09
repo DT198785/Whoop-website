@@ -1,4 +1,7 @@
 body {
     background-color: purple; color: orangered;
-    font-size: 60
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    font-display: center;
     }
